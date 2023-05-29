@@ -9,8 +9,12 @@ html, body {
 }
 
 #output {
-  padding: 20px;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
   text-align: center;
+  margin-top: 20px;
+  background-color: rgb(245, 59, 21);
+  color: rgb(242, 249, 26);
 }
 #RipVanWinkle {
   font-size: 20px;
